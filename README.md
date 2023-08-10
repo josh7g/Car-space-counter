@@ -23,9 +23,8 @@ Getting Started
 To set up and deploy the Carpark Vacancy Detection system:
 
 Clone this repository to your local machine.
-Install the required dependencies listed in the provided requirements.txt file.
 Configure camera or image sources to capture carpark footage.
-Run the main detection script to start monitoring and indicating vacant parking spots.
+Run the main ParkiingSpacePicker script to start monitoring and indicating vacant parking spots.
 Conclusion
 
 The Carpark Vacancy Detection project offers an innovative solution to address the challenge of finding available parking spaces efficiently. By harnessing the power of computer vision, this system enhances the user experience, reduces parking search time, and contributes to more effective utilization of parking facilities.
