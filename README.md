@@ -29,6 +29,8 @@ Conclusion
 
 The Carpark Vacancy Detection project offers an innovative solution to address the challenge of finding available parking spaces efficiently. By harnessing the power of computer vision, this system enhances the user experience, reduces parking search time, and contributes to more effective utilization of parking facilities.
 
+Attached is a screenshot at various times of the parking spot.We see how it updates when a vehicle moves out of the parking lot. It is important to note that, Human beings or trolleys standing at the parking lot do not affect the system.
+
 Feel free to explore the code, adapt it to your specific carpark setup, and contribute to its further development. If you have questions or feedback, don't hesitate to reach out.
 
 
